@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("Git Test");
         System.out.println("second commit");
         System.out.println("xc third commit");
+        System.out.println("hot-fix line");
     }
 }
